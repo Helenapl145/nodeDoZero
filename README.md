@@ -15,12 +15,14 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias: <br>
 
--Node.js
--Dotenv 
--Postgres
--Fastify
+<ul>
+  <li>Node.js</li>
+  <li>Dotenv</li>
+  <li>Postgres</li>
+  <li>Fastify</li>
+</ul>
 
 ## 💻 Projeto
 
