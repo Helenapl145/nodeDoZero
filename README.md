@@ -27,10 +27,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias: <br>
 ## 💻 Projeto
 
 Projeto criado com base em um vídeo de iniciação de Node.js a fim de conhecer os principios e principais funcamentos dessa tecnologia. 
-  -Passo a passo para usar do projeto: 
-   1-Faça o clone desse projeto na sua maquina;
-   2-Abra o mesmo no VScode e tenha a extensão REST Client instalada;
-   3-Abra o arquivo routes.http e clique no 'Send request' nas funções que você quiser.
+  -Passo a passo para usar do projeto: <br>
+  <ol>
+    <li>Faça o clone desse projeto na sua maquina;</li>
+    <li>Abra o mesmo no VScode e tenha a extensão REST Client instalada;</li>
+    <li>Postgres</li>
+    <li>Abra o arquivo routes.http e clique no 'Send request' nas funções que você quiser.</li>
+  </ol>
 
 - [Visite o projeto online](https://node-do-zero-5yuv.onrender.com/)
 
