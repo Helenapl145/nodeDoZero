@@ -1,0 +1,28 @@
+POST https://node-do-zero-99d0.onrender.com/videos
+Content-Type: application/json
+
+{
+    "title": "Video 03",
+    "description": "Esse é o primeiro video",
+    "duration": 180
+}
+
+###
+
+GET https://node-do-zero-99d0.onrender.com/videos
+
+
+###
+
+PUT https://node-do-zero-99d0.onrender.com/videos/64d61774-2686-4200-ab83-ed248373cc1d	   
+Content-Type: application/json
+
+{
+    "title": "Video 02",
+    "description": "Esse é o segundo video",
+    "duration": 100
+}
+
+###
+
+DELETE https://node-do-zero-99d0.onrender.com/videos/6f6667d3-eb77-4e78-a656-14ee865cb1b3   
