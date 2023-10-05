@@ -1,4 +1,4 @@
-POST https://node-do-zero-99d0.onrender.com/videos
+POST https://node-do-zero-5yuv.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,20 +9,20 @@ Content-Type: application/json
 
 ###
 
-GET https://node-do-zero-99d0.onrender.com/videos
+GET https://node-do-zero-5yuv.onrender.com/videos
 
 
 ###
 
-PUT https://node-do-zero-99d0.onrender.com/videos/64d61774-2686-4200-ab83-ed248373cc1d	   
+PUT https://node-do-zero-5yuv.onrender.com/videos/d664d91b-37b0-4df4-a6ea-44f24590a5f0	   
 Content-Type: application/json
 
 {
-    "title": "Video 02",
-    "description": "Esse é o segundo video",
+    "title": "Video 04",
+    "description": "Esse é o quarto video",
     "duration": 100
 }
 
 ###
 
-DELETE https://node-do-zero-99d0.onrender.com/videos/6f6667d3-eb77-4e78-a656-14ee865cb1b3   
+DELETE https://node-do-zero-5yuv.onrender.com/videos/20bed124-29d8-473c-8a13-322190a42d76   
